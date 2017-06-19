@@ -1,0 +1,16 @@
+PODS:
+  - YYPageView (0.1.0)
+
+DEPENDENCIES:
+  - YYPageView (from `../`)
+
+EXTERNAL SOURCES:
+  YYPageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YYPageView: d0bda38987e6491cf439fd0e42e8f9ca4d6a7385
+
+PODFILE CHECKSUM: ea45694a2d72e7da2b2b84a1fe7ef5c754a0fce5
+
+COCOAPODS: 1.2.1

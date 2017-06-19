@@ -1,0 +1,22 @@
+{
+  "name": "YYPageView",
+  "version": "0.1.0",
+  "summary": "A short description of YYPageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangyu2010@aliyun.com/YYPageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangyu2010@aliyun.com": "yangyu2010@aliyun.com"
+  },
+  "source": {
+    "git": "https://github.com/yangyu2010@aliyun.com/YYPageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYPageView/Classes/**/*"
+}

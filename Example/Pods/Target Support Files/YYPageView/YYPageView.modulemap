@@ -1,0 +1,6 @@
+framework module YYPageView {
+  umbrella header "YYPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
