@@ -22,8 +22,10 @@ pod "YYPageView"
 
 ## Author
 
-yangyu2010@aliyun.com, yangyu2010@aliyun.com
+yangyu, yangyu2010@aliyun.com
 
 ## License
 
 YYPageView is available under the MIT license. See the LICENSE file for more info.
+
+
