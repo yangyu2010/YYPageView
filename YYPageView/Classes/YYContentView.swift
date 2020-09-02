@@ -66,7 +66,7 @@ extension YYContentView {
     fileprivate func setupUI() {
         
         for childVc in childVcs {
-            parentVc.addChildViewController(childVc)
+            parentVc.addChild(childVc)
         }
         
         addSubview(contentCollecView)

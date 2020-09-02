@@ -102,7 +102,7 @@ extension YYTitleView {
             
             if style.isScrollEnble {
                 // 可以滑动
-                w = (titles[i] as NSString).boundingRect(with: CGSize(width: CGFloat(MAXFLOAT), height: 0), options: .usesLineFragmentOrigin, attributes: [NSFontAttributeName : lab.font], context: nil).width
+                w = (titles[i] as NSString).boundingRect(with: CGSize(width: CGFloat(MAXFLOAT), height: 0), options: .usesLineFragmentOrigin, attributes: [NSAttributedString.Key.font : lab.font ?? 17], context: nil).width
                 if i == 0 {
                     x = style.itemMargin * 0.5
                     if style.isShowScrollLine {
